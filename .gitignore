@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+logs.log
+
+# Large model file (151 MB, exceeds GitHub 100 MB limit) — regenerate by running the notebook
+model.pkl
